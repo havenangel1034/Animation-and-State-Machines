@@ -220,7 +220,7 @@ Transform:
   m_GameObject: {fileID: 590592386}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 87.31306, y: 23.967728, z: 13.911225}
+  m_LocalPosition: {x: 90.9, y: 26.048, z: 17.393}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -236,7 +236,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2119775930974504096, guid: c708a3b79cd542b42bbfedb17e213bc1, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 89.92304
+      value: 101.88
       objectReference: {fileID: 0}
     - target: {fileID: 2119775930974504096, guid: c708a3b79cd542b42bbfedb17e213bc1, type: 3}
       propertyPath: m_LocalPosition.y
@@ -244,7 +244,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2119775930974504096, guid: c708a3b79cd542b42bbfedb17e213bc1, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 19.085417
+      value: -18.62
       objectReference: {fileID: 0}
     - target: {fileID: 2119775930974504096, guid: c708a3b79cd542b42bbfedb17e213bc1, type: 3}
       propertyPath: m_LocalRotation.w
@@ -456,7 +456,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 4ec316382be87fb498b86d1c47dbf198, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 87.10079
+      value: 84.61
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 4ec316382be87fb498b86d1c47dbf198, type: 3}
       propertyPath: m_LocalPosition.y
@@ -464,7 +464,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 4ec316382be87fb498b86d1c47dbf198, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 18.048878
+      value: 17.47
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 4ec316382be87fb498b86d1c47dbf198, type: 3}
       propertyPath: m_LocalRotation.w
@@ -530,7 +530,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   target: {fileID: 1056950989}
-  partrolPoint: {fileID: 590592387}
+  patrolPoint: {fileID: 590592387}
   enemyState: 0
 --- !u!95 &1333753970
 Animator:
